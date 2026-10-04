@@ -1,16 +1,22 @@
-## Hi there 👋
+# Kyler Edwards
 
-<!--
-**edwardskyler4/edwardskyler4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Howdy! 👋
 
-Here are some ideas to get you started:
+I'm Kyler, a student at Brigham Young University-Idaho interested in AI Development, Project Management, and Full-Stack Engineering. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently learning parralelism, effective project management, and full-stack development.
+- My goals are to always keep learning and improving my knowledge foundation. I'm passionate about discovering new solutions to problems which has led me to a passion for studying and understanding the principles behind Machine Learning and effective AI use.
+- Ask me about my AI development projects.
+
+## Technologies and Tools
+
+- Proficient in: Python, TypeScript, AI-paired development, C#, PyTorch
+- Skills: Software Architecture, Listening, Learning Quickly, Leadership
+
+## Let's Connect!
+
+- Here is my [LinkedIn](https://www.linkedin.com/in/kyler-edwards4/) profile
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
